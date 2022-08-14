@@ -28,7 +28,7 @@
     "prepack": "yarn compile"
   },
   "dependencies": {
-    "@openzeppelin/contracts": "4.3.1",
+    "@openzeppelin/contracts": "4.7.2",
     "@pooltogether/fixed-point": "1.0.0",
     "@pooltogether/owner-manager-contracts": "1.1.0",
     "@pooltogether/pooltogether-rng-contracts": "1.4.0",
